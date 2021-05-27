@@ -1,0 +1,3 @@
+*.zip
+.Ds_Store
+.env
